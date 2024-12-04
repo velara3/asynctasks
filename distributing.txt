@@ -1,0 +1,28 @@
+Building this library
+---
+after changes to the ts files,
+run tsc in terminal to output Javascript
+
+
+Exporting to Javascript
+---
+Run tsc (command+shift+b)
+
+
+Publishing to NPM
+---
+run tsc (command+shift+b) in terminal
+update version number in package.json
+push to github
+npm publish in terminal
+
+
+Using in your project
+---
+See readme.md for usage
+npm install asynctasks@latest
+
+
+Installing or Updating in your project
+---
+npm install asynctasks@latest
