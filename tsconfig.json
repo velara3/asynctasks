@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+      "strictPropertyInitialization": false,
+      "declaration": true,
+      "target": "ESNext",
+      "module": "Preserve",
+      "inlineSourceMap": true,
+      "esModuleInterop": true,  
+      "forceConsistentCasingInFileNames": true, 
+      "lib": [
+    "ES5",
+    "ES2015",
+    "DOM",
+    "ScriptHost" ],
+  
+      /* Type Checking */
+      "strict": true,
+      "strictNullChecks": false,
+      "noImplicitOverride": true,
+      "allowUnreachableCode": true,
+      "skipLibCheck": true
+    }
+  }
+  

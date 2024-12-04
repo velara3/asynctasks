@@ -1,0 +1,2 @@
+# AsyncTask
+AsyncTask is a base class for AsyncTasks which let the caller know when they are done. AsyncTask is an OOP replacement for Promises and simple callbacks which allows for strongly typed async requests with any kind of payload and behavior. AsyncTask must be subclassed to be used. The subclass must implement the `run` method to define the behavior when the task is "run".
